@@ -1,0 +1,158 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 100%;
+	background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(/static/lakemountain.jpg);
+	background-position: center;
+	backgriound-size:cover;
+	height: 109vh;
+}
+.navbar{
+	height: 75px;
+	margin: auto;
+	width: 400px;
+	float: center;
+	display: block;
+	
+}
+u1{
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+u1 li{
+	list-style: none;
+	margin-left: 62px;
+	margin-top: 27px;
+	font-size: 14px;
+}
+u1 li a{
+	text-decoration: none;
+	color: green;
+	font-family: Arial;
+	font-weight: bold;
+	transition: 0.4s ease-in-out;
+}
+u1 li a:hover{
+	color: orange;
+}
+
+
+.hobbbyyy{
+	max-width: 1200px;
+	margin: auto;
+	background: lightgrey;
+	overflow: auto;
+	
+}
+.hobbyy{
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 390px;
+	display: flex;
+	flex: 1;
+}
+.hobbyy img{
+	width: 400px;
+	height: auto;
+	flex: 1;
+	
+}
+.hobb{
+	height: auto;
+	flex: 1;
+	padding: 50px;
+	
+}
+.family{
+	max-width: 1200px;
+	margin: auto;
+	background: lightgrey;
+	overflow: auto;
+	
+}
+.semia{
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 390px;
+}
+.semia img{
+	width: 150%;
+	height: auto;
+}
+.work{
+	max-width: 1200px;
+	margin: auto;
+	background: lightgreen;
+	overflow: auto;
+	
+}
+.rabota{
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 390px;
+	display: flex;
+}
+.rabota img{
+	width: 400px;
+	height: auto;
+}	
+.homepagetext{
+	color: orange;
+	font-size: 30px;
+}
+h1{
+	color: white;
+}
+
+.abouttt{
+	max-width: 1200px;
+	margin: auto;
+	background: lightblue;
+	overflow: auto;
+	
+}
+.about1 img{
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 400px;
+	display: flex;
+	flex: 1;
+}
+.about2{
+	width: 200px;
+	height: auto;
+	flex: 1;
+	display: flex;
+	
+}
+.about3 img{
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 400px;
+	display: flex;
+	flex: 1;
+}
+.about4{
+	width: 200px;
+	height: auto;
+	flex: 1;
+	display: flex;
+}
+
+.aboufff{
+	max-width: 1200px;
+	margin: auto;
+	background: lightgreen;
+	overflow: auto;
+	padding: 50px;
+	
+}
